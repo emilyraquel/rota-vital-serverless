@@ -1,4 +1,4 @@
-# Atividade Individual 1: Serverless (Rota Vital)
+# Serverless (Rota Vital)
 
 Infraestrutura de Software | CESAR School | 2026.2
 
