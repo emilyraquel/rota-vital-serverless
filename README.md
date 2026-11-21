@@ -1,7 +1,7 @@
 # Serverless (Rota Vital)
 
 Infraestrutura de Software | CESAR School | 2026.2
-||
+| | |
 | **Aluna** | [Emily Raquel Marques] |
 | **Vídeo** | [https://www.youtube.com/watch?v=8efWkaLxqAs&authuser=0] |
 | **Caminho escolhido** | A: AWS SAM CLI rodando localmente (sem conta na AWS e sem custo) |
